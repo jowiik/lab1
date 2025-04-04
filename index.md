@@ -34,7 +34,9 @@ if newUser():
 **Spotify MC**
 - Buit a Python application that integrates with the Spotify API to announce the currently playing song and artist
 through a text-to-speech (TTS) engine
-[x] Python
+
+- [x] Python
+- [x] OAuth/Spotify API
 
 ## Skills
 1. Python, Typescript, React, Firebase, Expo, C++, C
