@@ -16,7 +16,7 @@ if newUser():
 ## About me
 **CS @ UCSD**
 
-[**Resume**](resume.jpg)
+[<ins>**Resume**</ins>](resume.jpg)
 
 [<ins>**LinkedIn**</ins>](https://www.linkedin.com/in/josephkim614/)
 
@@ -34,7 +34,7 @@ if newUser():
 **Spotify MC**
 - Buit a Python application that integrates with the Spotify API to announce the currently playing song and artist
 through a text-to-speech (TTS) engine
-- [x] Python
+[x] Python
 
 ## Skills
 1. Python, Typescript, React, Firebase, Expo, C++, C
